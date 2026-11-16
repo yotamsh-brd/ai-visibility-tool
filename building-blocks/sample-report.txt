@@ -1,0 +1,29 @@
+Asking 3 engines in parallel: 'What is AI21 Labs known for, and who are its main competitors?'
+Answers take 1 to 5 minutes (ChatGPT is usually the slowest).
+  Google AI Mode: answer received
+  ChatGPT: answer received
+  Gemini: answer received
+
+AI VISIBILITY REPORT: AI21 Labs
+Prompt: What is AI21 Labs known for, and who are its main competitors?
+
+Engine          Status    Time  Mentions  Sources  Own site cited
+Google AI Mode  ok           -         7        3  yes
+ChatGPT         ok           -         6       13  no
+Gemini          ok           -         5        6  no
+
+--- Google AI Mode
+AI21 Labs is an Israeli artificial intelligence research and deployment company specializing in natural language processing (NLP) and foundational text models. Unlike consumer-facing AI brands, it focuses heavily on business, enterprise, and developer applications. AI21 Labs Documentation +1 What AI...
+Top sources: aionx.co, docs.ai21.com, vantaige.io
+
+--- ChatGPT
+What is AI21 Labs? AI21 Labs Founded in 2017 · Tel Aviv, Israel Enterprise generative AI · Large language models AI21 Labs is an Israeli AI company best known for developing large language models (LLMs), enterprise generative AI solutions, and technologies for processing complex business documents. ...
+Top sources: aws.amazon.com, companyview.io, benched.ai, openai.com, anthropic.com
+
+--- Gemini
+AI21 Labs is an Israeli artificial intelligence company founded in 2017 by Amnon Shashua, Yoav Shoham, and Ori Goshen. It is primarily known for developing enterprise-focused foundation models , pioneering hybrid neural architectures , and creating AI writing and reading tools . What AI21 Labs Is Kn...
+Top sources: g2.com, tracxn.com, research.contrary.com, getlatka.com, saasoffers.tech
+
+Sources cited by 2+ engines: research.contrary.com
+
+Full data saved to /tmp/o.json

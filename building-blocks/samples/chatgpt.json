@@ -1,0 +1,114 @@
+[
+  {
+    "prompt": "What is AI21 Labs known for, and who are its main competitors?",
+    "answer_text": "What is AI21 Labs? AI21 Labs Founded in 2017 · Tel Aviv, Israel Enterprise generative AI · Large language models AI21 Labs is an Israeli AI company best known for developing large language models (LLMs), enterprise generative AI solutions, and technologies for processing complex business documents. Its original differentiation was building language models that could understand, generate, summarize, and analyze text, particularly for business applications. What AI21 Labs is known for Jamba models: Its flagship family of language models. Jamba uses a hybrid architecture combining Transformer and Mamba technologies, designed to improve computational efficiency and handle long-context inputs. Jurassic models: An earlier family of large language models that helped establish AI21 as a foundation-model developer. Enterprise AI: Solutions for document summarization, information extraction, question answering, and content generation. Wordtune: An AI-powered writing and rewriting assistant that helped establish the company's consumer presence. AI agent technology: Its Maestro platform focuses on planning, orchestrating, and validating complex AI-driven workflows. Sources: Models in Amazon Bedrock – AWS +2 Main competitors AI21's competitive landscape has changed as the company shifts from developing its own foundation models toward enterprise AI agent optimization. The main competitors fall into two groups: 1. Foundation model competitors These companies compete with AI21 in language models, enterprise AI, and AI infrastructure. 1. OpenAI Develops GPT models and ChatGPT. Competes in enterprise AI, reasoning, document analysis, and AI agents. Website: OpenAI 2. Anthropic Develops Claude models, with a strong emphasis on enterprise applications, reliability, and AI agents. Website: Anthropic 3. Cohere Focuses on enterprise language models, retrieval-augmented generation (RAG), and business knowledge management. Website: Cohere 4. Mistral AI Develops efficient open-weight language models and enterprise AI solutions. Particularly comparable to AI21's Jamba models. Website: Mistral AI 5. Google DeepMind Develops Gemini and enterprise AI technologies, competing in foundation models and advanced AI systems. Website: Google DeepMind 6. Meta AI Develops Llama models and open-weight AI technologies that compete for enterprise and developer adoption. Website: Meta AI Contrary Research +1 2. Competitors in enterprise AI agents and orchestration This is increasingly the more relevant competitive category for AI21's current direction. LangChain : Frameworks and infrastructure for building and managing AI agents. Databricks : Enterprise data and AI platforms. Microsoft : Copilot and Azure AI agent solutions. Amazon Web Services : Bedrock and enterprise AI infrastructure. Google Cloud : Vertex AI and enterprise agent development. These companies overlap with different aspects of AI21's agent optimization and orchestration business. Important development: AI21's strategic pivot in 2026 One important distinction when evaluating AI21 today: According to November 11, 2026 reporting by Globes , AI21 has undergone a significant restructuring. In May 2026, it reduced its workforce by approximately 60%. It moved away from selling standalone language models. It shifted its strategic focus toward optimizing and managing enterprise AI agents. Its Maestro technology is central to this new direction. It has established commercial relationships with companies including Nebius and Wix. Sources: Globes +1 Competitive positioning summary Dimension AI21 Labs' position Original strength Enterprise language models Signature technology Jamba Current strategic focus AI agent optimization Enterprise applications Complex business workflows Closest model competitors Mistral, Cohere Major AI competitors OpenAI, Anthropic, Google Relevant agent competitors LangChain, Microsoft, AWS My assessment: AI21 Labs is an interesting company because it has moved from competing directly with the largest foundation-model developers toward a more specialized enterprise AI infrastructure opportunity. Rather than trying to build a model that beats GPT or Claude, its strategic opportunity is to help businesses make AI agents more reliable, accurate, and cost-effective. That is a different competitive market, and potentially a more defensible niche if AI21 can execute successfully. View sources",
+    "answer_text_markdown": "What is AI21 Labs?\n------------------\n\nAI21 Labs\n\nFounded in 2017 · Tel Aviv, Israel\n\nEnterprise generative AI · Large language models\n\nAI21 Labs is an Israeli AI company best known for developing large language models (LLMs), enterprise generative AI solutions, and technologies for processing complex business documents.\n\nIts original differentiation was building language models that could understand, generate, summarize, and analyze text, particularly for business applications.\n\n### What AI21 Labs is known for\n\n1.  Jamba models: Its flagship family of language models. Jamba uses a hybrid architecture combining Transformer and Mamba technologies, designed to improve computational efficiency and handle long-context inputs.\n    \n2.  Jurassic models: An earlier family of large language models that helped establish AI21 as a foundation-model developer.\n    \n3.  Enterprise AI: Solutions for document summarization, information extraction, question answering, and content generation.\n    \n4.  Wordtune: An AI-powered writing and rewriting assistant that helped establish the company's consumer presence.\n    \n5.  AI agent technology: Its Maestro platform focuses on planning, orchestrating, and validating complex AI-driven workflows.\n    \n\nMain competitors\n----------------\n\nAI21's competitive landscape has changed as the company shifts from developing its own foundation models toward enterprise AI agent optimization.\n\nThe main competitors fall into two groups:\n\n### 1\\. Foundation model competitors\n\nThese companies compete with AI21 in language models, enterprise AI, and AI infrastructure.\n\n1\\. OpenAI\n\nDevelops GPT models and ChatGPT. Competes in enterprise AI, reasoning, document analysis, and AI agents.\n\nWebsite: [OpenAI](https://openai.com?utm_source=chatgpt.com) \n\n2\\. Anthropic\n\nDevelops Claude models, with a strong emphasis on enterprise applications, reliability, and AI agents.\n\nWebsite: [Anthropic](https://anthropic.com?utm_source=chatgpt.com) \n\n3\\. Cohere\n\nFocuses on enterprise language models, retrieval-augmented generation (RAG), and business knowledge management.\n\nWebsite: [Cohere](https://cohere.com?utm_source=chatgpt.com) \n\n4\\. Mistral AI\n\nDevelops efficient open-weight language models and enterprise AI solutions. Particularly comparable to AI21's Jamba models.\n\nWebsite: [Mistral AI](https://mistral.ai?utm_source=chatgpt.com) \n\n5\\. Google DeepMind\n\nDevelops Gemini and enterprise AI technologies, competing in foundation models and advanced AI systems.\n\nWebsite: [Google DeepMind](https://deepmind.google?utm_source=chatgpt.com) \n\n6\\. Meta AI\n\nDevelops Llama models and open-weight AI technologies that compete for enterprise and developer adoption.\n\nWebsite: [Meta AI](https://ai.meta.com?utm_source=chatgpt.com) \n\n### 2\\. Competitors in enterprise AI agents and orchestration\n\nThis is increasingly the more relevant competitive category for AI21's current direction.\n\n*   LangChain: Frameworks and infrastructure for building and managing AI agents.\n    \n*   Databricks: Enterprise data and AI platforms.\n    \n*   Microsoft: Copilot and Azure AI agent solutions.\n    \n*   Amazon Web Services: Bedrock and enterprise AI infrastructure.\n    \n*   Google Cloud: Vertex AI and enterprise agent development.\n    \n\nThese companies overlap with different aspects of AI21's agent optimization and orchestration business.\n\nImportant development: AI21's strategic pivot in 2026\n-----------------------------------------------------\n\nOne important distinction when evaluating AI21 today:\n\nAccording to November 11, 2026 reporting by Globes, AI21 has undergone a significant restructuring.\n\n*   In May 2026, it reduced its workforce by approximately 60%.\n    \n*   It moved away from selling standalone language models.\n    \n*   It shifted its strategic focus toward optimizing and managing enterprise AI agents.\n    \n*   Its Maestro technology is central to this new direction.\n    \n*   It has established commercial relationships with companies including Nebius and Wix.\n    \n\nCompetitive positioning summary\n-------------------------------\n\n| Dimension | AI21 Labs' position |\n| --- | --- |\n| Original strength | Enterprise language models |\n| Signature technology | Jamba |\n| Current strategic focus | AI agent optimization |\n| Enterprise applications | Complex business workflows |\n| Closest model competitors | Mistral, Cohere |\n| Major AI competitors | OpenAI, Anthropic, Google |\n| Relevant agent competitors | LangChain, Microsoft, AWS |\n\nMy assessment: AI21 Labs is an interesting company because it has moved from competing directly with the largest foundation-model developers toward a more specialized enterprise AI infrastructure opportunity.\n\nRather than trying to build a model that beats GPT or Claude, its strategic opportunity is to help businesses make AI agents more reliable, accurate, and cost-effective.\n\nThat is a different competitive market, and potentially a more defensible niche if AI21 can execute successfully.",
+    "citations": [
+      {
+        "url": "https://aws.amazon.com/bedrock/ai21/?utm_source=chatgpt.com",
+        "title": "AI21 Labs",
+        "domain": "https://aws.amazon.com",
+        "cited": true,
+        "position": 1,
+        "answer_position": 1
+      },
+      {
+        "url": "https://companyview.io/company/ai21-labs?utm_source=chatgpt.com",
+        "title": "AI21 Labs - Company Profile",
+        "domain": "https://companyview.io",
+        "cited": true,
+        "position": 2,
+        "answer_position": 2
+      },
+      {
+        "url": "https://benched.ai/companies/ai21-labs?utm_source=chatgpt.com",
+        "title": "AI21 Labs",
+        "domain": "https://benched.ai",
+        "cited": true,
+        "position": 3,
+        "answer_position": 3
+      },
+      {
+        "url": "https://openai.com/?utm_source=chatgpt.com",
+        "title": "OpenAI",
+        "domain": "https://openai.com",
+        "cited": true,
+        "position": 4,
+        "answer_position": 4
+      },
+      {
+        "url": "https://anthropic.com/?utm_source=chatgpt.com",
+        "title": "Anthropic",
+        "domain": "https://anthropic.com",
+        "cited": true,
+        "position": 5,
+        "answer_position": 5
+      },
+      {
+        "url": "https://cohere.com/?utm_source=chatgpt.com",
+        "title": "Cohere",
+        "domain": "https://cohere.com",
+        "cited": true,
+        "position": 6,
+        "answer_position": 6
+      },
+      {
+        "url": "https://mistral.ai/?utm_source=chatgpt.com",
+        "title": "Mistral AI",
+        "domain": "https://mistral.ai",
+        "cited": true,
+        "position": 7,
+        "answer_position": 7
+      },
+      {
+        "url": "https://deepmind.google/?utm_source=chatgpt.com",
+        "title": "Google DeepMind",
+        "domain": "https://deepmind.google",
+        "cited": true,
+        "position": 8,
+        "answer_position": 8
+      },
+      {
+        "url": "https://ai.meta.com/?utm_source=chatgpt.com",
+        "title": "Meta AI",
+        "domain": "https://ai.meta.com",
+        "cited": true,
+        "position": 9,
+        "answer_position": 9
+      },
+      {
+        "url": "https://research.contrary.com/report/ai21-labs?utm_source=chatgpt.com",
+        "title": "Report: AI21 Labs Business Breakdown & Founding Story",
+        "domain": "https://research.contrary.com",
+        "cited": true,
+        "position": 10,
+        "answer_position": 10
+      },
+      {
+        "url": "https://www.concorrencia.pt/sites/default/files/processos/epr/AI%20short%20paper%20-%20Opening%20AI%20models%20-%20EN.pdf?utm_source=chatgpt.com",
+        "title": "Autoridade da Concorrência",
+        "domain": "https://www.concorrencia.pt",
+        "cited": true,
+        "position": 11,
+        "answer_position": 11
+      },
+      {
+        "url": "https://en.globes.co.il/en/article-ai21-labs-on-track-at-last-1001562980?utm_source=chatgpt.com",
+        "title": "AI21 Labs on track at last?",
+        "domain": "https://en.globes.co.il",
+        "cited": true,
+        "position": 12,
+        "answer_position": 12
+      },
+      {
+        "url": "https://www.ynetnews.com/business/article/skkze8ujfx?utm_source=chatgpt.com",
+        "title": "Amnon Shashua’s AI firm cuts over 60% of staff after sale talks collapse",
+        "domain": "https://www.ynetnews.com",
+        "cited": true,
+        "position": 13,
+        "answer_position": 13
+      }
+    ],
+    "timestamp": "2026-11-16T17:51:09.798Z"
+  }
+]

@@ -1,0 +1,5 @@
+raw/
+report.json
+.env
+*.env
+__pycache__/

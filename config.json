@@ -1,0 +1,14 @@
+{
+  "company": "Your Company",
+  "domain": "yourcompany.com",
+  "names": ["Your Company", "YourCo"],
+  "competitors": ["Competitor One", "Competitor Two", "Competitor Three"],
+  "prompts": [
+    "What is Your Company known for, and who are its main competitors?",
+    "What are the best <your category> for <your customer type>?"
+  ],
+  "engines": [
+    {"name": "chatgpt", "dataset_id": "gd_m7aof0k82r803d5bjm", "url": "https://chatgpt.com/"},
+    {"name": "gemini", "dataset_id": "gd_mbz66arm2mf9cu856y", "url": "https://gemini.google.com/"}
+  ]
+}

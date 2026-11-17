@@ -1,0 +1,34 @@
+[
+ {
+  "prompt": "What is Wonderful AI known for, and who are its main competitors?",
+  "answer_text": "Founded in 2025, Wonderful AI (often known simply as Wonderful) has quickly emerged as an enterprise-focused artificial intelligence operating system (AI OS) and multi-model platform. LinkedIn · Wonderful What Wonderful AI is Known For Unified Enterprise AI OS: Rather than offering a single point-solution chatbot, Wonderful provides a centralized intelligence layer that helps large organizations deploy multi-modal AI agents (handling text, voice, and email) across internal and external operations. Google Cloud +1 Model-Agnostic Flexibility: The platform is decoupled from any single LLM vendor, allowing tasks to route dynamically to the best-fit model without locking enterprises into a proprietary stack. Wonderful Rapid Deployment & Local Teams: They combine their software architecture with hands-on, local deployment teams across 35+ markets to help legacy enterprises transition core workflows in days rather than months. LinkedIn · Wonderful Multilingual & Multimodal Support: Known for handling complex regional dialects and languages (such as Arabic, Dutch, Italian, and French) for customer care, sales, and banking/insurance workflows. Google Cloud Strict Enterprise Security & Compliance: Features zero data retention (ZDR) with AI providers, automated PII redaction, and alignment with strict frameworks like the EU AI Act, SOC 2 Type II, and ISO 27001. Wonderful Main Competitors The competitive landscape for Wonderful AI spans enterprise AI agent builders, customer-care platforms, and broader horizontal AI operating layers: Sierra: A prominent conversational AI and customer-experience platform built to help enterprises craft human-like, autonomous customer-facing agents. Decagon: Positioned as an AI concierge for enterprise customer care, focusing heavily on deep integrations into customer service tickets and workflows. HappyRobot: A closer operational competitor that deploys AI agents not just for customer service, but deep into core business operations, logistics, dispatch, and supply chain execution. Salesforce Agentforce: Salesforce’s horizontal enterprise AI agent platform, which leverages proprietary CRM data and external data feeds via Data 360 and MuleSoft for autonomous support. SPIRITT: Another enterprise-focused alternative providing autonomous agents paired with forward-deployed engineering teams for large-scale deployments. HappyRobot +1 More details on their platform approach can be explored directly on the Wonderful AI OS Overview. Are you looking at Wonderful AI for a specific use case (like customer support, internal operations, or contact center automation), or would you like to compare their pricing and deployment model with a specific competitor?",
+  "citations": [
+   {
+    "url": "https://nl.linkedin.com/",
+    "title": "Wonderful | LinkedIn",
+    "domain": "https://nl.linkedin.com"
+   },
+   {
+    "url": "https://cloud.google.com/customers/wonderful",
+    "title": "Wonderful case study | Google Cloud",
+    "domain": "https://cloud.google.com"
+   },
+   {
+    "url": "https://www.wonderful.ai/",
+    "title": "The unified operating layer for the AI-native enterprise",
+    "domain": "https://www.wonderful.ai"
+   },
+   {
+    "url": "https://www.happyrobot.ai/",
+    "title": "HappyRobot vs. Wonderful for Enterprise AI Agents in 2026",
+    "domain": "https://www.happyrobot.ai"
+   },
+   {
+    "url": "https://spiritt.ai/",
+    "title": "Wonderful AI Alternatives 2026: Best Enterprise Options - SPIRITT",
+    "domain": "https://spiritt.ai"
+   }
+  ],
+  "timestamp": "2026-11-17T17:17:17.166Z"
+ }
+]

@@ -1,0 +1,50 @@
+{
+  "company": "Wonderful AI",
+  "domain": "wonderful.ai",
+  "names": [
+    "Wonderful AI",
+    "Wonderful"
+  ],
+  "competitors": [
+    "Sierra",
+    "Decagon",
+    "Parloa",
+    "Hyro",
+    "Sinch",
+    "Cognigy",
+    "PolyAI",
+    "Ada",
+    "Intercom",
+    "Salesforce",
+    "Genesys",
+    "ServiceNow",
+    "Zendesk"
+  ],
+  "prompts": [
+    "What is Wonderful AI known for, and who are its main competitors?",
+    "What are the best AI agent platforms for customer service automation in large enterprises?"
+  ],
+  "engines": [
+    {
+      "name": "google_ai_mode",
+      "dataset_id": "gd_mcswdt6z2elth3zqr2",
+      "url": "https://google.com/aimode"
+    },
+    {
+      "name": "chatgpt",
+      "dataset_id": "gd_m7aof0k82r803d5bjm",
+      "url": "https://chatgpt.com/"
+    },
+    {
+      "name": "gemini",
+      "dataset_id": "gd_mbz66arm2mf9cu856y",
+      "url": "https://gemini.google.com/"
+    },
+    {
+      "name": "bing_copilot",
+      "dataset_id": "gd_mwccaeuk8oyhtzmkf",
+      "url": "https://www.bing.com/copilotsearch",
+      "trigger": "rest"
+    }
+  ]
+}
